@@ -1,5 +1,5 @@
 Package: DMRforPairs
-Version: 1.37.0
+Version: 1.37.1
 Date: 2014-03-03
 Title: DMRforPairs: identifying Differentially Methylated Regions
         between unique samples using array based methylation profiles
@@ -30,3 +30,4 @@ biocViews: Microarray, DNAMethylation, DifferentialMethylation,
 Author: Martin Rijlaarsdam [aut, cre], Yvonne vd Zwan [aut], Lambert
         Dorssers [aut], Leendert Looijenga [aut]
 Maintainer: Martin Rijlaarsdam <m.a.rijlaarsdam@gmail.com>
+PackageStatus: Deprecated
